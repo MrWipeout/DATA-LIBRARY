@@ -35,7 +35,7 @@ public class Files {
             FileWriter myWriter = new FileWriter("filename.txt");
 
             //String titlos, String ISBN, String suggrafeas, String etos, String perigrafh, String eidos, String arithmosSelidwn, String thesh
-            data biblio1 = new data("LEPS", "12341234", "katerina", "1960", "einai polu wraio biblio", "math", "351", "2A");
+            data biblio1 = new data("LEPS", "12341234", "thanos", "1960", "einai polu wraio biblio", "math", "351", "2A");
             data biblio2 = new data("baseis", "34563456", "isi", "1961", "einai polu wraio biblio", "math", "351", "2B");
             data biblio3 = new data("vlsi", "45674567", "someone", "1962", "einai polu wraio biblio", "math", "351", "2C");
 
